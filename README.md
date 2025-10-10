@@ -74,7 +74,7 @@ v4l2-ctl --list-devices
 
 사용하려는 카메라 수에 따라 아래 안내를 따르세요.
 
-#### সিঙ্গেল 카메라 수집 (`saveimage_opencv.py`)
+####  🎥 단일 카메라 수집 (`saveimage_opencv.py`)
 
 1.  **스크립트 설정 수정**
     `saveimage_opencv.py` 파일을 열어 맨 위의 설정값을 사용자의 환경에 맞게 수정합니다.
