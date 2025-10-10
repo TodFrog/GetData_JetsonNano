@@ -12,7 +12,7 @@ CAPTURE_HEIGHT = 480
 # --- ---
 
 # --- 나머지 설정값 ---
-MAIN_OUTPUT_DIR = "image_recordings"
+MAIN_OUTPUT_DIR = "image_recordings" # 저장 폴더
 SAVE_FPS = 10  # 초당 저장할 이미지 수
 # --- ---
 
