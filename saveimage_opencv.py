@@ -53,7 +53,7 @@ def main():
     camera_fps = cap.get(cv2.CAP_PROP_FPS)
     if camera_fps == 0: camera_fps = 30
         
-    print(f"카메라 설정 완료: {width}x{height}. 라이브 영상을 시작합니다.")
+    print(f"카메라 설정 완료: {CAP_WIDTH}x{CAP_HEIGHT}. 라이브 영상을 시작합니다.")
     print("엔터를 누르면 이미지 저장이 시작됩니다.")
 
     # 상태 변수 및 카운터 초기화

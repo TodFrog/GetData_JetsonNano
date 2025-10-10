@@ -4,3 +4,9 @@
 *.ptx
 *.cubin
 *.fatbin
+*.log
+*.o
+*.class
+*.tmp
+venv/
+image_recordings/
