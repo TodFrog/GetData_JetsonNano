@@ -13,7 +13,7 @@ CAPTURE_HEIGHT = 480
 
 # --- 나머지 설정값 ---
 MAIN_OUTPUT_DIR = "video_recordings" # 저장 폴더
-SAVE_FPS = 30  # 저장될 영상의 초당 프레임 수
+SAVE_FPS = 10  # 저장될 영상의 초당 프레임 수
 # --- ---
 
 def gstreamer_pipeline(capture_width, capture_height, framerate=30):

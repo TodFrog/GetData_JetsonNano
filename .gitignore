@@ -13,3 +13,4 @@ image_recordings/
 .venv/
 .vscode/
 video_recordings/
+data_recordings/
